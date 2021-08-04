@@ -1,6 +1,7 @@
 # 2021-Nervos-Broaden-the-Spectrum-task2
 
-Task0: Deploy A Simple Ethereum Smart Contract On Polyjuice
+Task2: Deploy A Simple Ethereum Smart Contract On Polyjuice
+
 Submitter: Soptq
 
 ## A screenshot of the console output immediately after you have successfully deployed a smart contract.
